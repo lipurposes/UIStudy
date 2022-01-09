@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{12CD00D1-E099-4206-734F-E040D6551282}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Item.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UIPanel.cs" Line="6" Column="37" />
+      <File FileName="Assets/Scripts/Item.cs" Line="29" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UIStudy" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Item.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="daec59d0-9e2e-45da-9942-50b404eb2e45" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
