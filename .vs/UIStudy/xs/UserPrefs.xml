@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{12CD00D1-E099-4206-734F-E040D6551282}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Item.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
+      <File FileName="Assets/Scripts/Item.cs" Line="6" Column="60" />
       <File FileName="Assets/Scripts/UIPanel.cs" Line="6" Column="37" />
-      <File FileName="Assets/Scripts/Item.cs" Line="29" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="daec59d0-9e2e-45da-9942-50b404eb2e45" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="87ad37ac-9b41-476d-bbfc-825554266df3" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
